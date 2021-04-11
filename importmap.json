@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "roughjs/bundled/rough.esm.js": "https://ethereal-incredible-freedom.glitch.me/roughjs/bundled/rough.esm.js",
+        "wired-button": "https://ethereal-incredible-freedom.glitch.me/wired-button@2.1.0/lib/wired-button.js",
+        "wired-slider": "https://ethereal-incredible-freedom.glitch.me/wired-slider@2.1.2/lib/wired-slider.js",
+        "lit-element/lit-element.js": "https://ethereal-incredible-freedom.glitch.me/lit-element/lit-element.js"
+    }
+}
